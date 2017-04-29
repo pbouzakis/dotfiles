@@ -11,3 +11,6 @@
     ~/.tmux.conf: tmux.conf
     ~/.vimrc: vimrc
     ~/.zshrc: zsh/zshrc
+
+- shell:
+  - sh homebrew/install.sh
