@@ -7,7 +7,7 @@
 
 - link:
     ~/.bash_profile: bash_profile
-    ~/.gitconfig: gitconfig
+    ~/.gitconfig: git/gitconfig
     ~/.tmux.conf: tmux.conf
     ~/.vimrc: vimrc
-    ~/.zshrc: zshrc
+    ~/.zshrc: zsh/zshrc
