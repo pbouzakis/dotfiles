@@ -16,3 +16,4 @@
   - sh homebrew/install.sh
   - sh npm/install.sh
   - /usr/local/opt/fzf/install
+  - chsh -s /bin/zsh
