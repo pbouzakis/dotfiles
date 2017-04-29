@@ -14,3 +14,4 @@
 
 - shell:
   - sh homebrew/install.sh
+  - sh npm/install.sh
