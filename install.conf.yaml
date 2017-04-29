@@ -17,5 +17,6 @@
   - [git submodule update --init --recursive, Installing submodules]
   - sh homebrew/install.sh
   - sh npm/install.sh
-  - /usr/local/opt/fzf/install
+  - sh /usr/local/opt/fzf/install
   - chsh -s /bin/zsh
+  - cd fonts && sh install.sh
