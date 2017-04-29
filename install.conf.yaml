@@ -11,8 +11,10 @@
     ~/.tmux.conf: tmux.conf
     ~/.vimrc: vimrc
     ~/.zshrc: zsh/zshrc
+    ~/.oh-my-zsh: .oh-my-zsh/
 
 - shell:
+  - [git submodule update --init --recursive, Installing submodules]
   - sh homebrew/install.sh
   - sh npm/install.sh
   - /usr/local/opt/fzf/install
