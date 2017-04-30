@@ -83,6 +83,7 @@ brew 'sl'
 brew 'wget'
 brew 'xz'
 brew 'zeromq'
+brew 'z'
 
 # Apps: Cask
 cask 'atom'
