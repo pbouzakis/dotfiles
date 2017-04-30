@@ -20,3 +20,4 @@
   - sh /usr/local/opt/fzf/install
   - chsh -s /bin/zsh
   - cd fonts && sh install.sh
+  - source osx/.macos
