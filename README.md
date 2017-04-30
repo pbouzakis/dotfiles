@@ -17,3 +17,6 @@ Navigate to the preferences window (iTerm2 -> preferences). and click on the Gen
 Towards the bottom of the window you should see an option that says
 “Load preferences from a custom folder or URL”.
 Check this option and select the iterm folder inside dotfiles.    
+
+## Webstorm
+Copy to ~/Library/Preferences/WebStorm2017.1
