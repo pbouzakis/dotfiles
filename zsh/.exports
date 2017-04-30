@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# Make vim the default editor.
+export EDITOR='vim';
+
+export TERM_PROGRAM=iTerm.app
+
+# PELOTON EXPORTS
