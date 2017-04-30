@@ -10,6 +10,7 @@
 
 - Other Links To Look Into
     - https://github.com/robbyrussell/oh-my-zsh/wiki/External-themes
+    - https://github.com/michelegera/dotfiles (look at mac os)
 
 ### iTerm2 setup
 Navigate to the preferences window (iTerm2 -> preferences). and click on the General tab.
