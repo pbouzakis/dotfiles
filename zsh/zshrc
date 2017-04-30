@@ -6,6 +6,7 @@ ZSH=$HOME/.oh-my-zsh
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
 #ZSH_THEME="blinks"
+BULLETTRAIN_PROMPT_CHAR="λ"
 ZSH_THEME="bullet-train"
 
 # Vim style shortcuts
@@ -139,6 +140,8 @@ alias ....='cd ../../../'
 alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
 alias path='echo $PATH | tr -s ":" "\n"'
 
+# Reload the shell (i.e. invoke as a login shell)
+alias reload="exec $SHELL -l"
 alias reloadz='source ~/.zshrc'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
