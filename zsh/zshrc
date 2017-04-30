@@ -142,6 +142,6 @@ alias path='echo $PATH | tr -s ":" "\n"'
 
 # Reload the shell (i.e. invoke as a login shell)
 alias reload="exec $SHELL -l"
-alias reloadz='source ~/.zshrc'
+alias rz='source ~/.zshrc'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
