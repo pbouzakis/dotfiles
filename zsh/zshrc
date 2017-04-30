@@ -13,6 +13,10 @@ bindkey -v
 
 export TERM="xterm-256color"
 
+bindkey -e
+bindkey '[C' forward-word
+bindkey '[D' backward-word
+
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
