@@ -226,6 +226,9 @@ defaults write NSGlobalDomain WebKitDeveloperExtras -bool true
 # Don’t display the annoying prompt when quitting iTerm
 defaults write com.googlecode.iterm2 PromptOnQuit -bool false
 
+defaults write com.googlecode.iterm2.plist LoadPrefsFromCustomFolder 1
+defaults write com.googlecode.iterm2.plist PrefsCustomFolder "~/.dotfiles/iterm"
+
 ###############################################################################
 # Activity Monitor                                                            #
 ###############################################################################
