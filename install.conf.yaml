@@ -7,10 +7,14 @@
 
 - link:
     ~/.bash_profile: bash_profile
+    ~/.bashrc: .bashrc
+    ~/.profile: .profile
     ~/.gitconfig: git/gitconfig
     ~/.tmux.conf: tmux.conf
     ~/.vimrc: vimrc
     ~/.zshrc: zsh/zshrc
+    ~/.zprofile: zsh/.zprofile
+    ~/.zshrc: zsh/.zlogin
     ~/.oh-my-zsh: .oh-my-zsh/
     ~/.atom: atom
 
