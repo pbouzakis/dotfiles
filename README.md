@@ -20,3 +20,6 @@ Check this option and select the iterm folder inside dotfiles.
 
 ## Webstorm
 Copy to ~/Library/Preferences/WebStorm2017.1
+_A better approach might be to use JetBrains settings repository instead._
+Settings repo: https://github.com/develar/settings-repository
+My settings repo: https://github.com/pbouzakis/jetbrains-settings
