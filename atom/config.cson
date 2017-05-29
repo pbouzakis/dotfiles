@@ -1,0 +1,43 @@
+"*":
+  "atom-typescript": {}
+  core:
+    telemetryConsent: "no"
+  editor:
+    invisibles: {}
+    preferredLineLength: 100
+    showIndentGuide: true
+    showInvisibles: false
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "c2ae7e46-9ba3-94c7-8253-da98a12af82f"
+  linter: {}
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
+    removeTrailingWhitespace: true
+".coffee.jsx.source":
+  editor:
+    preferredLineLength: 100
+    tabLength: 4
+".jade.source":
+  editor:
+    preferredLineLength: 100
+    tabLength: 4
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
+    removeTrailingWhitespace: true
+".js.jsx.source":
+  editor:
+    preferredLineLength: 100
+    tabLength: 4
+".source.ts":
+  editor:
+    preferredLineLength: 100
+    tabLength: 4
+".source.tsx":
+  editor:
+    preferredLineLength: 100
+    tabLength: 4

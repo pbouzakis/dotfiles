@@ -12,6 +12,7 @@
     ~/.vimrc: vimrc
     ~/.zshrc: zsh/zshrc
     ~/.oh-my-zsh: .oh-my-zsh/
+    ~/.atom: atom
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
