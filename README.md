@@ -12,6 +12,7 @@
     - https://github.com/robbyrussell/oh-my-zsh/wiki/External-themes
     - https://github.com/michelegera/dotfiles (look at mac os)
 
+
 ### Xcode
 Start by running this. _TODO: Confirm this is needed_
 `xcode-select --install `
@@ -34,3 +35,14 @@ My settings repo: https://github.com/pbouzakis/jetbrains-settings
 ### RVM
 In case of error installing : https://rvm.io/rvm/install
 rvm/install.sh should be fine.
+
+### VIM
+https://github.com/tpope/vim-pathogen
+
+### OPAM
+TODO Auto install opam packages
+
+### Manual install
+The following apps need to be manually installed.
+TODO Automate these.
+* Grammarly

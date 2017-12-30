@@ -7,7 +7,6 @@
     preferredLineLength: 100
     showIndentGuide: true
     showInvisibles: false
-    tabLength: 4
     tabType: "soft"
   "exception-reporting":
     userId: "c2ae7e46-9ba3-94c7-8253-da98a12af82f"
@@ -23,23 +22,23 @@
 ".coffee.jsx.source":
   editor:
     preferredLineLength: 100
-    tabLength: 4
+    tabLength: 2
 ".jade.source":
   editor:
     preferredLineLength: 100
-    tabLength: 4
+    tabLength: 2
   whitespace:
     ignoreWhitespaceOnCurrentLine: false
     removeTrailingWhitespace: true
 ".js.jsx.source":
   editor:
     preferredLineLength: 100
-    tabLength: 4
+    tabLength: 2
 ".source.ts":
   editor:
     preferredLineLength: 100
-    tabLength: 4
+    tabLength: 2
 ".source.tsx":
   editor:
     preferredLineLength: 100
-    tabLength: 4
+    tabLength: 2
