@@ -901,7 +901,7 @@
 	<key>NSWindow Frame SharedPreferences</key>
 	<string>484 200 937 465 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 38 1440 830 0 0 1440 877 </string>
+	<string>0 5 1440 872 0 0 1440 877 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -2313,13 +2313,17 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-12-23T16:02:18Z</date>
+	<date>2018-01-30T17:00:47Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>TabStyle</key>
 	<integer>1</integer>
 	<key>TabViewType</key>
 	<integer>0</integer>
+	<key>ToolbeltTools</key>
+	<array>
+		<string>Profiles</string>
+	</array>
 	<key>UseBorder</key>
 	<false/>
 	<key>WordCharacters</key>

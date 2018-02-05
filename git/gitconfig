@@ -8,7 +8,7 @@
 	trustExitCode = true
 [user]
 	name = Paul Bouzakis
-	email = github@paulbouzakis.com
+	email = 888851+pbouzakis@users.noreply.github.com
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean %f

@@ -17,6 +17,8 @@
 Start by running this. _TODO: Confirm this is needed_
 `xcode-select --install `
 
+Copy themes to ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+
 
 ### iTerm2 setup
 Navigate to the preferences window (iTerm2 -> preferences). and click on the General tab.
@@ -30,7 +32,6 @@ Copy to ~/Library/Preferences/WebStorm2017.1
 _A better approach might be to use JetBrains settings repository instead._
 Settings repo: https://github.com/develar/settings-repository
 My settings repo: https://github.com/pbouzakis/jetbrains-settings
-
 
 ### RVM
 In case of error installing : https://rvm.io/rvm/install
@@ -46,3 +47,4 @@ TODO Auto install opam packages
 The following apps need to be manually installed.
 TODO Automate these.
 * Grammarly
+* xcode themes

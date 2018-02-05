@@ -1,4 +1,5 @@
 "*":
+  "SFTP-deployment": {}
   "atom-typescript": {}
   core:
     telemetryConsent: "no"
