@@ -38,7 +38,7 @@ alias emptytrash="sudo rm -rfv /Volumes/*/.Trashes; sudo rm -rfv ~/.Trash; sudo 
 
 alias desktop='cd ~/Desktop'
 alias c='clear'
-alias .='pwd'
+#alias .='pwd'
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
@@ -54,6 +54,8 @@ alias ips="ifconfig -a | grep -o 'inet6\? \(addr:\)\?\s\?\(\(\([0-9]\+\.\)\{3\}[
 alias flush="dscacheutil -flushcache && killall -HUP mDNSResponder"
 
 alias path='echo $PATH | tr -s ":" "\n"'
+
+alias python='python2'
 
 # Get week number
 alias week='date +%V'

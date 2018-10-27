@@ -7,7 +7,7 @@ ZSH=$HOME/.oh-my-zsh
 # time that oh-my-zsh is loaded.
 #ZSH_THEME="blinks"
 BULLETTRAIN_PROMPT_CHAR="λ"
-ZSH_THEME="bullet-train"
+ZSH_THEME="spaceship-prompt"
 
 # Vim style shortcuts
 bindkey -v
